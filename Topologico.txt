@@ -1,0 +1,6 @@
+Camisa Corbata 1
+Camisa Cinturon 1
+Corbata Saco 1
+Cinturon Saco 1
+Reloj 0 0
+
